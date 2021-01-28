@@ -7,15 +7,7 @@ paginate: true
 
 # Container Audit Logging Best Practice
 
-
-
 by Sanhe Hu
-
-Description:1. What is Container Audit Log Best Practice
-2. Fluent-bit Deamon Set deployment on EKS
-3. Sample log generator application container
-4. Engineering Knowledge Base Documentation and Run Books
-
 
 ---
 
